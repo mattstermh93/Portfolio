@@ -45,3 +45,7 @@ td a {
 .backbeige {
   background-color: #FFEBAE;
 }
+
+div[id="centertext"] {
+  text-align: center;
+}
