@@ -9,7 +9,7 @@ input[id="higher"] {
 }
 
 table {
-  border: 2px solid steelblue;
+  border: 2px solid black;
   width: 50%;
   text-align: center;
   margin: 20px auto;
@@ -17,7 +17,7 @@ table {
 }
 
 table tr th, table tr td {
-  border: 1px solid steelblue;
+  border: 1px solid black;
   padding: 15px;
 }
 
@@ -73,6 +73,11 @@ div[id="centertext"] {
   color: rgba(255,255,255, .5);
   background-color: #343a40!important;
   border-color: #343a40!important;
+}
+
+.sonos {
+  width: 650px;
+  height: 250px;
 }
 
 footer {
