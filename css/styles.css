@@ -8,7 +8,6 @@ body {
 
 nav ul li {
   list-style-type: none;
-  display: inline-inline-grid;
   text-align: center;
   font-family: arial, sans-serif; ;
   }
@@ -62,12 +61,6 @@ input[type=submit] {
 
 input[type=submit]:hover {
     background-color: #45a049;
-}
-
-.formcolor {
-    border-radius: 5px;
-    background-color: grey;
-    padding: 20px;
 }
 
 form {
