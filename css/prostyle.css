@@ -8,6 +8,11 @@ input[id="higher"] {
   height: 100px;
 }
 
+form {
+  max-width: 100%;
+
+}
+
 table {
   border: 2px solid black;
   width: 50%;
@@ -57,7 +62,6 @@ div[id="centertext"] {
 
 .center {
   display: block;
-  text-align: center;
   margin: 20px auto;
 }
 
@@ -78,6 +82,16 @@ div[id="centertext"] {
 .sonos {
   width: 650px;
   height: 250px;
+}
+
+.text-center {
+  text-align: center;
+  width: 100%;
+  padding-top: 10px;
+}
+
+.head-size {
+  display: inline;
 }
 
 footer {

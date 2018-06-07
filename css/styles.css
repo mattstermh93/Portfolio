@@ -4,6 +4,7 @@ ul {
 
 body {
   margin: 0px;w
+  overflow-x: hidden;
 }
 
 nav ul li {
